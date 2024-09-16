@@ -1,0 +1,14 @@
+#miboton{
+    font-size: 18px;
+    padding-top: 10px 20px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: bacKgroud-color 0.3s ease;
+} 
+
+#miboton:hover{
+    background-color: chartreuse;
+} 
